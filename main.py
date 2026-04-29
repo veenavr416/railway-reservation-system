@@ -41,7 +41,7 @@ def cancel_ticket():
         available_seats += 1
         print("\n Ticket Cancelled Successfully!")
     else:
-        print("\n Invalid Booking ID!")
+        print("\n ❌ Invalid Booking ID!")
 # Main menu loop
 while True:
     print("\n===== Railway Reservation System =====")
