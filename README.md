@@ -12,13 +12,14 @@ It allows users to book, view, and cancel tickets.
 - Simple menu-driven interface
 
 ## Technologies Used
-- Python
+- Python(core programming language)
 
 ## How to Run
 1. Download or clone the repository
 2. Open terminal / command prompt
 3. Run:
    python main.py
+4.Follow the menu options
 
 ## Total Seats
 50 seats available
